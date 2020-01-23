@@ -15,7 +15,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    opacity: 0; /*was .3*/
+    opacity: .3; /*was .3 (orig), was 1*/
     background: $dark;
   }
   
