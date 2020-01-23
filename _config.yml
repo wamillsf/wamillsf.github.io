@@ -20,9 +20,9 @@ email: mailto:info@wamill.com # Add your Email address
 
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
-hero-title: #Raked Minimalistic Theme # Add your hero title
-hero-subtitle: #For those who love simplicity # Add your hero subtitle
-hero-image: "" #images/wmlogo.png # Add background image in section hero
+hero-title: Blockchain Tycoon #Raked Minimalistic Theme # Add your hero title
+hero-subtitle: Available for Early Access on Steam #For those who love simplicity # Add your hero subtitle
+hero-image: "images/bct-logo.png" # Add background image in section hero
 
 # Footer
 footer-image: #images/14.jpg # Add background image in footer
