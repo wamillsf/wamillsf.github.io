@@ -2,10 +2,10 @@
 layout: page
 title: Blockchain Tycoon
 permalink: /blockchaintycoon/
-image: images/bct-logo.png
+image: images/bct-p2-logo.png
 ---
 
-Blockchain Tycoon is the cryptocurrency simulation/tycoon game where you build your own crypto mining warehouses around the world. 
+Blockchain Tycoon is the cryptocurrency simulation game where you build and manage your own mining operation.
 
 <iframe src="https://www.youtube.com/embed/3MoIWgu6FoE" frameborder="0" allowfullscreen></iframe>
 
