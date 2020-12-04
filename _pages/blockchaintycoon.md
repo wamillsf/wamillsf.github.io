@@ -7,7 +7,7 @@ image: images/bct-p2-logo.png
 
 Blockchain Tycoon is the cryptocurrency simulation game where you build and manage your own mining operation.
 
-<iframe src="https://www.youtube.com/embed/3MoIWgu6FoE" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/NtvFvRO3dvk" frameborder="0" allowfullscreen></iframe>
 
 ***
 
