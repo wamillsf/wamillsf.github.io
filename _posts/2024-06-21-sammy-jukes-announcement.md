@@ -31,8 +31,9 @@ Do it by the book!
 -	Get a search warrant on suspects. Establish probable cause to arrest them.
 -	Respect the civil rights and due process in this unprecedented law abiding adventure. Time to obey the law and kick figurative ass!
 
+***
 
-- Wamill Games
+Wamill Games
 
 
 [Sammy Jukes Twin Lakes on Steam](https://store.steampowered.com/app/3058620/Sammy_Jukes_Twin_Lakes/)

@@ -9,10 +9,13 @@ Sammy Jukes: Twin Lakes, an open-world first-person detective adventure game, is
 
 Detective Sammy Jukes is the man on the job when an anti-oil activist is reported missing in a small town on the new oil pipeline route. Talk to witnesses, shovel through evidence, wrestle with the wolves and chase after chickens to find the truth in this first-person adventure game.
 
+***
 
 ## Trailer
 
 <iframe src="https://www.youtube.com/embed/SMYAAVYfVjg?si=luuCxcMUDIccwyuc" frameborder="0" allowfullscreen></iframe>
+
+***
 
 ## Gameplay (Work In Progress)
 
