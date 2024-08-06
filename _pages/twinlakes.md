@@ -42,3 +42,7 @@ Detective Sammy Jukes is the man on the job when an anti-oil activist is reporte
 [![Epic Games Store]({{site.baseurl}}/images/EGS-logo.png)](https://store.epicgames.com/en-US/p/sammy-jukes-twin-lakes-4a4fb9)
 
 ***
+
+## Presskit
+
+[![Presskit]](https://wamill.com/SammyJukes_TL_PRESSKIT.zip)
