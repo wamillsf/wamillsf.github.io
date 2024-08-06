@@ -45,4 +45,4 @@ Detective Sammy Jukes is the man on the job when an anti-oil activist is reporte
 
 ## Presskit
 
-[![Presskit]](https://wamill.com/SammyJukes_TL_PRESSKIT.zip)
+[Click to download the Press Kit for Sammy Jukes: Twin Lakes](https://wamill.com/SammyJukes_TL_PRESSKIT.zip)
