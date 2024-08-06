@@ -13,7 +13,13 @@ Detective Sammy Jukes is the man on the job when an anti-oil activist is reporte
 
 ## Trailer
 
-<iframe src="https://www.youtube.com/embed/SMYAAVYfVjg?si=luuCxcMUDIccwyuc" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Ys2KhnEk_HI?si=RWVnbreEeXThxzRA" frameborder="0" allowfullscreen></iframe>
+
+***
+
+## Teaser
+
+<iframe src="https://www.youtube.com/embed/na8TEqO5UGo?si=tELrmfltB3HPowzY" frameborder="0" allowfullscreen></iframe>
 
 ***
 
@@ -30,5 +36,9 @@ Detective Sammy Jukes is the man on the job when an anti-oil activist is reporte
 *** 
 
 [![Steam]({{site.baseurl}}/images/steam.png)](https://store.steampowered.com/app/3058620/Sammy_Jukes_Twin_Lakes/)
+
+***
+
+[![Epic Games Store]({{site.baseurl}}/images/EGS-logo.png)](https://store.epicgames.com/en-US/p/sammy-jukes-twin-lakes-4a4fb9)
 
 ***
