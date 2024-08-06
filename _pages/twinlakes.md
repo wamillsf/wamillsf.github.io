@@ -23,9 +23,9 @@ Detective Sammy Jukes is the man on the job when an anti-oil activist is reporte
 
 ***
 
-## Gameplay (Work In Progress)
+## Gameplay
 
-<iframe src="https://www.youtube.com/embed/MlymIwyWI9g?si=fmxLF-MtnhaPvcp-" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/LemXUOvQRMA?si=1MAkvQImLgUqPAuQ" frameborder="0" allowfullscreen></iframe>
 
 ***
 
