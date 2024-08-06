@@ -10,7 +10,7 @@ Hi there mystery fans,
 
 Cinematic Trailer for Twin Lakes is ready to view,
 
-<iframe src="https://www.youtube.com/embed/na8TEqO5UGo" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Ys2KhnEk_HI?si=RWVnbreEeXThxzRA" frameborder="0" allowfullscreen></iframe>
 
 All footage was captured in game. We went ahead and updated the teaser trailer and the screenshots too. What you see now is the final version of the game.
 
