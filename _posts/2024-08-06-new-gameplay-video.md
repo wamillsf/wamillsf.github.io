@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  New Trailer Drop
+title:  New Gameplay Video
 date:   2024-08-06
 image:  
 tags:   [Sammy Jukes Twin Lakes]
