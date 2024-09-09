@@ -5,7 +5,6 @@ permalink: /about/
 image: 
 ---
 
-We are focused on tycoon and adventure games. 
 
 ***
 
